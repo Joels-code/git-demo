@@ -2,10 +2,6 @@
 
 This is the first file in the repository.
 
-## Stuff below
+##Website Contents
 
-Hey this is stuff.
-
-## More Stuff Below
-
-Hey this is more stuff aha.
+1. index.html
